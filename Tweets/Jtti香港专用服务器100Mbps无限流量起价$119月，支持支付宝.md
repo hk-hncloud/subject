@@ -1,45 +1,79 @@
-JttiÏã¸Û×¨ÓÃ·þÎñÆ÷100MbpsÎÞÏÞÁ÷Á¿Æð¼Û$119/ÔÂ£¬Ö§³ÖÖ§¸¶±¦
-ÓÅ»ÝÒ»£ºCN2 GIAÔÆ·þÎñÆ÷×î¸ßÁ¢¼õ80%£¬Äê¸¶Æð¼Û$24.62£¬ÓÐÖÐ¹úÏã¸Û¡¢ÂåÉ¼í¶¡¢ÐÂ¼ÓÆÂ¶à¸ö»ú·¿
-ÓÅ»Ý¶þ£º×¨ÓÃ·þÎñÆ÷ÓÅ»Ý£¬Ïã¸Û·þÎñÆ÷100MbpsÆð¼Û$119/ÔÂ£¬ÃÀ¹úÂåÉ¼í¶·þÎñÆ÷Æð¼Û$96.9/ÔÂ£¬DDoS¸ß·À·þÎñÆ÷Æð¼Û$155.4
-¹ÙÍø£ºhttps://www.jtti.cc
-ÌØ±ð¼Æ»®£º1GBÔÆ·þÎñÆ÷½öÐè24.62ÃÀÔª/Äê£¬Ö§³ÖPayPal/Ö§¸¶±¦/ÒøÁª¿¨/visaµÈ
-1¸öCPUºËÐÄ
-50GB SSD´æ´¢
+# Jttié¦™æ¸¯ä¸“ç”¨æœåŠ¡å™¨100Mbpsæ— é™æµé‡èµ·ä»·$119/æœˆï¼Œæ”¯æŒæ”¯ä»˜å®
+
+ä¼˜æƒ ä¸€ï¼šCN2 GIAäº‘æœåŠ¡å™¨æœ€é«˜ç«‹å‡80%ï¼Œå¹´ä»˜èµ·ä»·$24.62ï¼Œæœ‰ä¸­å›½é¦™æ¸¯ã€æ´›æ‰çŸ¶ã€æ–°åŠ å¡å¤šä¸ªæœºæˆ¿
+
+ä¼˜æƒ äºŒï¼šä¸“ç”¨æœåŠ¡å™¨ä¼˜æƒ ï¼Œé¦™æ¸¯æœåŠ¡å™¨100Mbpsèµ·ä»·$119/æœˆï¼Œç¾Žå›½æ´›æ‰çŸ¶æœåŠ¡å™¨èµ·ä»·$96.9/æœˆï¼ŒDDoSé«˜é˜²æœåŠ¡å™¨èµ·ä»·$155.4
+
+å®˜ç½‘ï¼š[https://www.jtti.cc/](https://www.jtti.cc)
+
+### ç‰¹åˆ«è®¡åˆ’ï¼š1GBäº‘æœåŠ¡å™¨ä»…éœ€24.62ç¾Žå…ƒ/å¹´ï¼Œæ”¯æŒPayPal/æ”¯ä»˜å®/é“¶è”å¡/visaç­‰
+
+1ä¸ªCPUæ ¸å¿ƒ
+
+50GB SSDå­˜å‚¨
+
 1GB RAM
-5M CN2 GIA¾«Æ·´ø¿í/ÎÞÁ÷Á¿ÏÞÖÆ
-Ãâ·ÑWindows/Linux
-1¸ö×¨ÓÃIPv4µØÖ·
-ÍêÈ«¸ù¹ÜÀíÔ±·ÃÎÊÈ¨ÏÞ
+
+5M CN2 GIAç²¾å“å¸¦å®½/æ— æµé‡é™åˆ¶
+
+å…è´¹Windows/Linux
+
+1ä¸ªä¸“ç”¨IPv4åœ°å€
+
+å®Œå…¨æ ¹ç®¡ç†å‘˜è®¿é—®æƒé™
+
+ä¸“ç”¨æœåŠ¡å™¨ä¼˜æƒ -æ— é™æµé‡ï¼š
 
 
-×¨ÓÃ·þÎñÆ÷ÓÅ»Ý-ÎÞÏÞÁ÷Á¿£º
-Ïã¸Û×¨ÓÃ·þÎñÆ÷£º
-CPU£ºXeon E5-2660
-ÄÚ´æ£º16G DDR3 
-Ó²ÅÌ£º500G SSD
-´ø¿í£º100Mbps»ò20MbpsÖÐ¹úÓÅ»¯
-IPv4£º3¸ö
-DDOS·ÀÓù£º20 G
-¼Û¸ñ£º$119/ÔÂ
+## é¦™æ¸¯ä¸“ç”¨æœåŠ¡å™¨ï¼š
 
-ÃÀ¹ú×¨ÓÃ·þÎñÆ÷£º
-CPU£ºXeon E5-2650
-ÄÚ´æ£º16G DDR3 
-Ó²ÅÌ£º500G SSD
-´ø¿í£º50Mbps CN2 GIA¾«Æ·´ø¿í 
-IPv4£º3¸ö
-DDOS·ÀÓù£º20 G
-¼Û¸ñ£º$96.9/ÔÂ
+CPUï¼šXeon E5-2660
 
-SEO×¨ÓÃ·þÎñÆ÷¡¾¶àC¶Î¶àIP¡¿£º
-CPU£ºXeon E5-2650
-ÄÚ´æ£º16G DDR3
-Ó²ÅÌ£º500G SSD 
-´ø¿í£º50 Mbps CN2 GIA¾«Æ·´ø¿í
-IP¶Î£º1C/253¸öIPv4
-DDOS·ÀÓù£º20 G
-Êý¾ÝÖÐÐÄ£ºÃÀ¹úÂåÉ¼í¶
-¼Û¸ñ£º$218.6/ÔÂ
+å†…å­˜ï¼š16G DDR3 
 
-Ã»ÓÐ¿´µ½ÍêÈ«·ûºÏÄúÐèÇóµÄÅäÖÃ£¿ÐèÒª²»Í¬·þÎñÆ÷¹æ¸ñµÄ±¨¼Û£¿ÎÒÃÇËæÊ±ÎªÄú½â´ðÎÊÌâ£¬²¢¾¡ÎÒÃÇËùÄÜÌá¹©°ïÖú£¡
+ç¡¬ç›˜ï¼š500G SSD
+
+å¸¦å®½ï¼š100Mbpsæˆ–20Mbpsä¸­å›½ä¼˜åŒ–
+
+IPv4ï¼š3ä¸ª
+
+DDOSé˜²å¾¡ï¼š20 G
+
+ä»·æ ¼ï¼š$119/æœˆ
+
+## ç¾Žå›½ä¸“ç”¨æœåŠ¡å™¨ï¼š
+
+CPUï¼šXeon E5-2650
+
+å†…å­˜ï¼š16G DDR3 
+
+ç¡¬ç›˜ï¼š500G SSD
+
+å¸¦å®½ï¼š50Mbps CN2 GIAç²¾å“å¸¦å®½ 
+
+IPv4ï¼š3ä¸ª
+
+DDOSé˜²å¾¡ï¼š20 G
+
+ä»·æ ¼ï¼š$96.9/æœˆ
+
+## SEOä¸“ç”¨æœåŠ¡å™¨ã€å¤šCæ®µå¤šIPã€‘ï¼š
+
+CPUï¼šXeon E5-2650
+
+å†…å­˜ï¼š16G DDR3
+
+ç¡¬ç›˜ï¼š500G SSD 
+
+å¸¦å®½ï¼š50 Mbps CN2 GIAç²¾å“å¸¦å®½
+
+IPæ®µï¼š1C/253ä¸ªIPv4
+
+DDOSé˜²å¾¡ï¼š20 G
+
+æ•°æ®ä¸­å¿ƒï¼šç¾Žå›½æ´›æ‰çŸ¶
+
+ä»·æ ¼ï¼š$218.6/æœˆ
+
+æ²¡æœ‰çœ‹åˆ°å®Œå…¨ç¬¦åˆæ‚¨éœ€æ±‚çš„é…ç½®ï¼Ÿéœ€è¦ä¸åŒæœåŠ¡å™¨è§„æ ¼çš„æŠ¥ä»·ï¼Ÿæˆ‘ä»¬éšæ—¶ä¸ºæ‚¨è§£ç­”é—®é¢˜ï¼Œå¹¶å°½æˆ‘ä»¬æ‰€èƒ½æä¾›å¸®åŠ©ï¼
 
