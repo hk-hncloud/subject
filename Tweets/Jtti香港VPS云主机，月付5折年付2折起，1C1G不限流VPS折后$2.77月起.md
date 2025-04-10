@@ -1,54 +1,87 @@
-JttiÏã¸ÛVPSÔÆÖ÷»ú£¬ÔÂ¸¶5ÕÛ/Äê¸¶2ÕÛÆð£¬1C1G²»ÏÞÁ÷VPSÕÛºó$2.77/ÔÂÆð
-Jtti.ccÏã¸ÛVPSÔÆÖ÷»úÓÅ»Ý´ÙÏú£¬ÔÂ¸¶5ÕÛ/Äê¸¶µÍÖÁ2ÕÛ£¬1-16CPUºËÐÄ£¬1GB-64GBÄÚ´æ£¬1M-100M CN2 GIA´ø¿í£¬Ö§³ÖÁé»îÑ¡Åä£¬×ÔÖ÷Ãâ·Ñ°²×°WindowsºÍlinuxÏµÍ³¡£
+# Jttié¦™æ¸¯VPSäº‘ä¸»æœºï¼Œæœˆä»˜5æŠ˜/å¹´ä»˜2æŠ˜èµ·ï¼Œ1C1Gä¸é™æµVPSæŠ˜åŽ$2.77/æœˆèµ·
 
-Ïà±ÈÓÚ´«Í³µÄVPS£¬Jtti Ïã¸ÛÔÆÖ÷»úÍ¨¹ý²¿Êð²¢ÕûºÏ¼ÆËãÍøÂç¼¯Èº£¬¹¹½¨º£Á¿ÔÆ¶Ë×ÊÔ´³Ø£¬×öµ½ÔÆÖ÷»ú×¨»ú×¨ÓÃ£¬×ÊÔ´µ¯ÐÔÉìËõ£¬¸ü¼ÓÁé»î£¬È·±£Ã¿Î»ÓÃ»§¾ùÏí¸ßÐÔÄÜµÄÔÆ¶Ë¼ÆËã·þÎñ¡£Í¬Ê±µ×²ã²ÉÓÃXeon E5¸ßÐÔÄÜ´¦ÀíÆ÷£¬Ó²¼þ×ÊÔ´¾ß±¸ºÜ´óµÄÈßÓà£¬·¢ÉúÓ²¼þ¹ÊÕÏÊ±ÖÇÄÜÇÐ»»£¬Ê¼ÖÕ¿ÉÓÃ£¬ËùÒÔ¿ÉÒÔ·ÅÐÄ¹ºÂò¡£
+Jtti.ccé¦™æ¸¯VPSäº‘ä¸»æœºä¼˜æƒ ä¿ƒé”€ï¼Œæœˆä»˜5æŠ˜/å¹´ä»˜ä½Žè‡³2æŠ˜ï¼Œ1-16CPUæ ¸å¿ƒï¼Œ1GB-64GBå†…å­˜ï¼Œ1M-100M CN2 GIAå¸¦å®½ï¼Œæ”¯æŒçµæ´»é€‰é…ï¼Œè‡ªä¸»å…è´¹å®‰è£…Windowså’Œlinuxç³»ç»Ÿã€‚
+
+ç›¸æ¯”äºŽä¼ ç»Ÿçš„VPSï¼ŒJtti é¦™æ¸¯äº‘ä¸»æœºé€šè¿‡éƒ¨ç½²å¹¶æ•´åˆè®¡ç®—ç½‘ç»œé›†ç¾¤ï¼Œæž„å»ºæµ·é‡äº‘ç«¯èµ„æºæ± ï¼Œåšåˆ°äº‘ä¸»æœºä¸“æœºä¸“ç”¨ï¼Œèµ„æºå¼¹æ€§ä¼¸ç¼©ï¼Œæ›´åŠ çµæ´»ï¼Œç¡®ä¿æ¯ä½ç”¨æˆ·å‡äº«é«˜æ€§èƒ½çš„äº‘ç«¯è®¡ç®—æœåŠ¡ã€‚åŒæ—¶åº•å±‚é‡‡ç”¨Xeon E5é«˜æ€§èƒ½å¤„ç†å™¨ï¼Œç¡¬ä»¶èµ„æºå…·å¤‡å¾ˆå¤§çš„å†—ä½™ï¼Œå‘ç”Ÿç¡¬ä»¶æ•…éšœæ—¶æ™ºèƒ½åˆ‡æ¢ï¼Œå§‹ç»ˆå¯ç”¨ï¼Œæ‰€ä»¥å¯ä»¥æ”¾å¿ƒè´­ä¹°ã€‚
  
-1¡¢¹ÙÍø
-https://www.jtti.cc/
+å®˜ç½‘[https://www.jtti.cc/](https://www.jtti.cc)
 
-2¡¢´ÙÏú¿îÏã¸ÛVPSÔÆÖ÷»ú
-»ú·¿Î»ÓÚHGC/ÜõÍå»ú·¿£¬»ùÓÚKVM¼Ü¹¹£¬Ë«ÏòCN2 GIAÏßÂ·£¬Xeon E5ÏµÁÐ»úÆ÷£¬DDR3ÄÚ´æ£¬SSDÓ²ÅÌ×é£¬×îµÍ1GBÄÚ´æÌ×²ÍÕÛºó$2.77/ÔÂ¡£
-²âÊÔIP: 38.47.220.254
+# ä¿ƒé”€æ¬¾é¦™æ¸¯VPSäº‘ä¸»æœº
 
-HK CLOUD 1C1G
-?	1¸öCPU
-?	1GÄÚ´æ
-?	50GBÏµÍ³ÅÌ
-?	2M´ø¿í
-?	Á÷Á¿ ÎÞÏÞÖÆ
-?	Windows/linuxÏµÍ³
-?	$33.24/Äê£¨Ô¼$2.77/ÔÂ£©
-?	¡¾Á¢¼´¶©¹º¡¿
+æœºæˆ¿ä½äºŽHGC/èƒæ¹¾æœºæˆ¿ï¼ŒåŸºäºŽKVMæž¶æž„ï¼ŒåŒå‘CN2 GIAçº¿è·¯ï¼ŒXeon E5ç³»åˆ—æœºå™¨ï¼ŒDDR3å†…å­˜ï¼ŒSSDç¡¬ç›˜ç»„ï¼Œæœ€ä½Ž1GBå†…å­˜å¥—é¤æŠ˜åŽ$2.77/æœˆã€‚
 
-HK CLOUD 2C4G
-?	2¸öCPU
-?	4GÄÚ´æ
-?	50GBÏµÍ³ÅÌ
-?	3M´ø¿í
-?	Á÷Á¿ ÎÞÏÞÖÆ
-?	Windows/linuxÏµÍ³
-?	$19.85/ÔÂ
-?	$99.25/Äê£¬Ô¼$8.27/ÔÂ
-?	¡¾Á¢¼´¶©¹º¡¿
+æµ‹è¯•IP: 38.47.220.254
 
-HK CLOUD 4C8G
-?	4¸öCPU
-?	8GÄÚ´æ
-?	50GBÏµÍ³ÅÌ
-?	5M´ø¿í
-?	Á÷Á¿ ÎÞÏÞÖÆ
-?	Windows/linuxÏµÍ³
-?	$37.55/ÔÂ
-?	$187.73/Äê£¬Ô¼$15.64/ÔÂ
-?	¡¾Á¢¼´¶©¹º¡¿
+# HK CLOUD 1C1G 
 
-HK CLOUD 8C16G
-?	8¸öCPU
-?	16GÄÚ´æ
-?	50GBÏµÍ³ÅÌ
-?	5M´ø¿í
-?	Á÷Á¿ ÎÞÏÞÖÆ
-?	Windows/linuxÏµÍ³
-?	$65.28/ÔÂ
-?	$326.4/Äê£¬Ô¼$27.2/ÔÂ
-?	¡¾Á¢¼´¶©¹º¡¿
+1ä¸ªCPU
+
+1Gå†…å­˜
+
+50GBç³»ç»Ÿç›˜
+
+2Må¸¦å®½
+
+æµé‡æ— é™åˆ¶
+
+Windows/linuxç³»ç»Ÿ
+
+$33.24/å¹´ï¼ˆçº¦$2.77/æœˆï¼‰
+
+
+# HK CLOUD 2C4G
+
+2ä¸ªCPU
+
+4Gå†…å­˜
+
+50GBç³»ç»Ÿç›˜
+
+3Må¸¦å®½
+
+æµé‡æ— é™åˆ¶
+
+Windows/linuxç³»ç»Ÿ
+
+$19.85/æœˆ
+
+$99.25/å¹´ï¼Œçº¦$8.27/æœˆ
+
+
+# HK CLOUD 4C8G
+
+4ä¸ªCPU
+
+8Gå†…å­˜
+
+50GBç³»ç»Ÿç›˜
+
+5Må¸¦å®½
+
+æµé‡ æ— é™åˆ¶
+
+Windows/linuxç³»ç»Ÿ
+
+$37.55/æœˆ
+
+$187.73/å¹´ï¼Œçº¦$15.64/æœˆ
+
+
+# HK CLOUD 8C16G
+
+8ä¸ªCPU
+
+16Gå†…å­˜
+
+50GBç³»ç»Ÿç›˜
+
+5Må¸¦å®½
+
+æµé‡æ— é™åˆ¶
+
+Windows/linuxç³»ç»Ÿ
+
+$65.28/æœˆ
+
+$326.4/å¹´ï¼Œçº¦$27.2/æœˆ
+
