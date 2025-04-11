@@ -8,8 +8,7 @@ Jtti，全称 JT TELECOM INTERNATIONAL PTE.LTD，是一家于新加坡注册成�
 
 如今，Jtti已在全球建立了自己的骨干网络，同时在美洲和亚洲部署多个数据中心，拥有超过5000台专用服务器，未来仍将积极拓展欧洲市场，加快数据中心部署，进一步扩大与全球顶级网络服务提供商的合作，持续为用户提供高速的网络以及优质的服务。
 
-## Jtti.cc官网地址
-[https://www.hncloud.com/](https://www.hncloud.com)
+华纳云官网[https://www.hncloud.com/](https://www.hncloud.com)
 
 ## Jtti.cc促销
 不限流香港云服务器4C8G 5M CN2 $225.27/年，约$18.77/月
